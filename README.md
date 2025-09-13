@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Ahmad
 
-<!--
-**YTMOONXD/YTMOONXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Open Source & Automation Enthusiast
+🌐 Networks, APIs, Data Structures, Algorithms, Security, Computer Vision
+🛠️ HTML · CSS · JS · React · Tailwind · TypeScript · Python · MongoDB · Docker · CI/CD
 
-Here are some ideas to get you started:
+### ⚡ Skills & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌐 **Web & Backend:** Full Stack apps, REST APIs, automation scripts
+* 🗄️ **Data & Algorithms:** Efficient data structures, algorithmic problem solving
+* 🔒 **Security & Hacking:** Penetration testing, CTF/HTB challenges, Google Dorking
+* 🤖 **Computer Vision & AI:** CV projects, basic ML concepts
+* ☁️ **DevOps & Cloud Tools:** Docker, CI/CD, server management
+* 🎨 **HCI & UX:** Designing intuitive interfaces
+* 📚 **Learning:** Advanced distributed systems, embedded systems, AI/ML deep dive
+
+📌 Always exploring ways to **optimize tasks, automate workflows, and create practical solutions**.
