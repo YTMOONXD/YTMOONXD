@@ -9,7 +9,7 @@
 * 🌐 **Web & Backend:** Full Stack apps, REST APIs, automation scripts
 * 🗄️ **Data & Algorithms:** Efficient data structures, algorithmic problem solving
 * 🔒 **Security & Hacking:** Penetration testing, CTF/HTB challenges, Google Dorking
-* 🤖 **Computer Vision & AI:** CV projects, basic ML concepts
+* 🤖 **Computer Vision & AI:** CV projects
 * ☁️ **DevOps & Cloud Tools:** Docker, CI/CD, server management
 * 🎨 **HCI & UX:** Designing intuitive interfaces
 * 📚 **Learning:** Advanced distributed systems, embedded systems, AI/ML deep dive
